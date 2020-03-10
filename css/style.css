@@ -1,15 +1,17 @@
+/* Cabecalho */
 #cabecalho {
     background-color: #169926;
     height: 115px;
     width: 100%;
     padding: 0%;
-    margin: 0%;
+    margin-bottom: 50 ;
 }
 
 #logo {
     margin: 5px 5px 0px 10px;;
 }
 
+/* navbar */
 .navbar {
     height: 50px;
     background-color:  ;
@@ -19,9 +21,42 @@
     margin-right: 10px;
     margin: 2px;
     margin-right: 15px;
+    margin-bottom: 10px;
 }
 
 .btn-success {
     background-color: #37E54B;
+}
+
+/* Carrosel */
+#carrosel{
+    height: 400px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.carousel-item {
+    height: 400px;
+    width: 100%;
+
+}
+
+.carousel-item img{
+    height: 400px;
+    width: 100%;
+
+
+}
+
+/* Wrapper */
+
+#wrapper{
+    margin: 0 auto;
+}
+
+/* Cards */
+/* Tira o padding das imagens*/
+.carta{
+    padding: 0px;
 }
 
