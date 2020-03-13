@@ -1,10 +1,8 @@
 /* Cabecalho */
 #cabecalho {
-    background-color: #169926;
-    height: 115px;
     width: 100%;
     padding: 0%;
-    margin-bottom: 50px ;
+/*    margin-bottom: 50px ;*/
 }
 
 #cabecalho h1{
@@ -16,12 +14,13 @@
 
 /* navbar */
 .navbar {
-    height: 50px;
-    background-color:;
+    background-color: #169926;
+    margin-bottom: 1px;
 }
 
 .navbar form button {
-    margin: 0 auto;
+    background-color: #4D0016;
+    color: white;
 }
 
 .btn-success {
