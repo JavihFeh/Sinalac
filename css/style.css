@@ -55,8 +55,7 @@
 }
 
 /* Cards */
-/* Tira o padding das imagens*/
-.carta{
-    padding: 0px;
+.card img {
+    height: 338px;
+    width: 338;
 }
-
