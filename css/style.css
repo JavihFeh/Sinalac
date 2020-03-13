@@ -2,7 +2,6 @@
 #cabecalho {
     width: 100%;
     padding: 0%;
-/*    margin-bottom: 50px ;*/
 }
 
 #cabecalho h1{
@@ -17,6 +16,7 @@
     background-color: #169926;
     margin-bottom: 1px;
 }
+
 
 .navbar form button {
     background-color: #4D0016;
