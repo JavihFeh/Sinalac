@@ -51,9 +51,3 @@
 #wrapper{
     margin: 5 auto;
 }
-
-/* Cards */
-.card img {
-    height: 338px;
-    width: 338;
-}
